@@ -16,7 +16,8 @@ Papá Pitufo se entera de que él será capaz de obtener todas las cosas en un p
 
 Hay una batalla entre Patrick y los pitufos contra Gargamel, mientras que Odile (Sofía Vergara), la jefa de Patrick, está en espera del lanzamiento de un nuevo producto de su empresa y Pitufina trata de liberar a Papá. Además, Filósofo lee el hechizo y se abre el portal, lo que le permite ir a casa y reunir a sus amigos. Ellos también se unen a la lucha. Gargamel captura a Papá Pitufo de nuevo y lo lanza al aire, pero Patrick lo atrapa. Justo antes de que Gargamel pueda destruirlos a ambos, Valiente, atado a un dron, arrebata la vara del dragón de su mano. Tontín trata de capturarla, y Papá Pitufo cree que va a fracasar, pero, para sorpresa de Papá Pitufo y de todos los demás pitufos, se las arregla para atraparlo. Sin su varita de dragón, Gargamel es impotente, y Papá Pitufo destruye la varita de una vez por todas, después de lanzar a Gargamel por los aires, y los Pitufos regresan a casa. Odile termina con una actitud algo piadosa y de consideración personal hacia Patrick. Una serie de imágenes fijas durante los créditos revelan que Patrick y Grace tuvieron un hijo, y que le pusieron por nombre Azul y Los Pitufos reconstruyeron su casa, al igual que los seres humanos la tienen. Además se muestra que Gargamel y Azrael están atrapados en Nueva York.</p>
 <button>Reparto</button> <button>Premios y nominaciones</button> <a href="secuelas.html"><button>Secuelas</button></a> <br>
-
+<br>
+<a href="https://youtu.be/hcZwDHfabvc?si=Gqb69VsUXhuUcrHs">pelicula</a>
 
 </div>
 </body>
