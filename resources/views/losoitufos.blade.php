@@ -21,6 +21,9 @@ Hay una batalla entre Patrick y los pitufos contra Gargamel, mientras que Odile 
 <button>Reparto</button> <button>Premios y nominaciones</button> <a href="secuelas.html"><button>Secuelas</button></a> <br>
 <br>
 <a href="https://youtu.be/hcZwDHfabvc?si=Gqb69VsUXhuUcrHs">pelicula</a>
+<br>
+<br>
+<button onclick="alert('Gracias por leer el resumen de los pitufos')">Mostrar alerta</button>
 
 </div>
 </body>
