@@ -4,7 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LOS PITUFOS</title>
-    
+    <style>
+        body {
+            background-color: lightblue;
+        }
+        h2 {
+            color: blue;
+        }
+        button {
+            background-color: yellow;
+        }
+    </style>
 </head>
 <body>
 <div class="contenedor">
